@@ -1,5 +1,5 @@
 export const columns = [
-    { title: "ID", field: "id" },
+    // { title: "ID", field: "id" },
     { title: "Nombre", field: "name" },
     { title: "Apellido", field: "surname" },
     { title: "Edad", field: "age", type: "numeric" },
@@ -10,7 +10,7 @@ export const columns = [
 
 export const dataEmployees = [
     {
-        "id": 1,
+        // "id": 1,
         "name": "Paola",
         "surname": "Juarez",
         "age": 29,
@@ -19,7 +19,7 @@ export const dataEmployees = [
         "current": "MXN"
     },
     {
-        "id": 2,
+        // "id": 2,
         "name": "Alain",
         "surname": "Tovar",
         "age": 25,
@@ -28,7 +28,7 @@ export const dataEmployees = [
         "current": "MXN"
     },
     {
-        "id": 3,
+        // "id": 3,
         "name": "Alejandro",
         "surname": "Mediola",
         "age": 30,
